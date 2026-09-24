@@ -1,0 +1,12 @@
+---
+title: "analyis"
+author: "Lili Maycock"
+date: "2026-09-24"
+output: html_document
+---
+
+```{r}
+x <- 1:10
+mean(x)
+```
+
